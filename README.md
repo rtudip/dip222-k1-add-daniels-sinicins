@@ -1,1 +1,1 @@
-# dip225_k2_add
+# Teksta datne kontroldarba izpildei
